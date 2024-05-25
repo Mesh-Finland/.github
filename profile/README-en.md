@@ -1,6 +1,6 @@
 # Mesh-Finland (DRAFT)
 
-[Suomeksi](README.md)
+[Suomeksi](../profile/README.md)
 
 "Mesh-Finland" is the current working name for a loose collaboration of [Meshtastic](https://meshtastic.org/docs/introduction/) users in Finland
 
