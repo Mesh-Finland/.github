@@ -1,5 +1,7 @@
 # Mesh-Finland (DRAFT)
 
+[Suomeksi](README-fi.md)
+
 "Mesh-Finland" is the current working name for a loose collaboration of [Meshtastic](https://meshtastic.org/docs/introduction/) users in Finland
 
 * The collaboration is not in a position to dictate what anyone does when it comes to acceptable and legal use of ISM frequencies or the internet
