@@ -1,6 +1,6 @@
 # Mesh-Finland (LUONNOS)
 
-[In English](../profile/README-en.md)
+[In English](https://github.com/Mesh-Finland/.github/blob/main/profile/README-en.md)
 
 "Mesh-Finland" on nykyinen työnimi löyhälle yhteistyölle [Meshtastic](https://meshtastic.org/docs/introduction/) -käyttäjien kesken Suomessa.
 
