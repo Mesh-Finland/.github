@@ -1,6 +1,6 @@
 # Mesh-Finland (LUONNOS)
 
-[In English](README.md)
+[In English](README-en.md)
 
 "Mesh-Finland" on nykyinen työnimi löyhälle yhteistyölle [Meshtastic](https://meshtastic.org/docs/introduction/) -käyttäjien kesken Suomessa.
 
